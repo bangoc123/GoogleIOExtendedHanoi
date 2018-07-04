@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpeakerView">
+        <attr name="sv_list_name" format="integer" />
+        <attr name="sv_list_avatar" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="MaskEditText">
+        <attr format="string" name="met_mask"/>
+    </declare-styleable>
+</resources>

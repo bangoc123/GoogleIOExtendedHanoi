@@ -1,0 +1,18 @@
+<tabs>
+    <tab
+        icon="@drawable/ic_event"
+        id="@+id/tab_schedule"
+        title="@string/menu_schedule" />
+    <tab
+        icon="@drawable/ic_location"
+        id="@+id/tab_map"
+        title="@string/menu_map" />
+    <tab
+        icon="@drawable/ic_person"
+        id="@+id/tab_my_io"
+        title="@string/menu_my_io" />
+    <tab
+        icon="@drawable/ic_info"
+        id="@+id/tab_info"
+        title="@string/menu_info" />
+</tabs>

@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name" translatable="false">Google IO Extended Hanoi 2018</string>
+    <string name="server_client_id" translatable="false">Key</string>
+    <string name="noti_require_login">You must login to book topic</string>
+    <string name="noti_error_try">Error. Please try again.</string>
+    <string name="menu_schedule">Schedule</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_my_io" translatable="false">My I/O</string>
+    <string name="menu_info">Info</string>
+    <string name="alert_exit_app">Do you want close app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_update_app">New version available</string>
+    <string name="message_update_app">Please, update app to new version to continue.</string>
+    <string name="update">Update</string>
+    <string name="no_thanks">No, thanks</string>
+    <string name="question_1">What is the check-in procedure like?</string>
+    <string name="answer_1">We will scan the QR code that has been sent earlier to attendees. Please kindly prepare a mobile device in advance for a quicker and handier check-in process.</string>
+    <string name="question_2">What is the main language at the event?</string>
+    <string name="answer_2">Keynote and a number of sessions of the event will be presented to audience entirely in English by foreign connoisseurs. Other sessions will be presented to audience in Vietnamese by domestic technology experts.</string>
+    <string name="question_3">If I make an individual question to the speaker, how will I receive the answer?</string>
+    <string name="answer_3"><![CDATA[At the end of every session, speakers will spend 5 – 10 minutes for answering any enquiry of the audience. Should you have a question that has not been raised during this Q&A interval, you can write it down in a note and attach your email and hand it to one of our supporters presented in the room. They will then give your question directly to the speaker.]]></string>
+    <string name="menu_event">Event</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_my_topics">My Topics</string>
+    <string name="menu_qrcode">QRCode</string>
+    <string name="alert_delete_topic">This topic will be deleted from My I/O</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="register_now_to_receive_qr_code">Register now to receive QR code for Google I/O Extended Hanoi 2018</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="company">Company</string>
+    <string name="your_birthday">Your birthday</string>
+    <string name="projects_you_have_been_involved_with">Projects you have been involved with</string>
+    <string name="question_for_us_optional">Question for us (Optional)</string>
+    <string name="submit">Submit</string>
+    <string name="agree">Agree</string>
+    <string name="wifi_network">Wifi network:</string>
+    <string name="wifi_name" translatable="false">iohanoi2018</string>
+    <string name="password">Password:</string>
+    <string name="wifi_password" translatable="false">makegoodthings</string>
+    <string name="sign_in_to_customize_your_schedule">Sign in to customize your schedule</string>
+    <string name="sign_in_to_save_events">Sign in to save events, reserve seats and rate sessions (if an attendee). Actions will be synced from your account app and site</string>
+    <string name="successful_registration">Successful registration!</string>
+    <string name="you_will_receive_your_qr_code_in_10_days">You will receive your QR code in 10 days</string>
+    <string name="let_s_use_your_qr_code">Let\'s use your QR code to join Google IO Extended Hanoi 2018!</string>
+    <string name="sign_out">Sign out</string>
+    <string name="register">Register</string>
+    <string name="your_application_form_will_review">Your application form will be reviewed in one week. When you received our confirmation email, you can book topics in your I/O.</string>
+    <string name="notifi_you_must_login">You must login to book topic</string>
+    <string-array name="occupation">
+        <item>Choose your occupation</item>
+        <item>Developer</item>
+        <item>Product Manager</item>
+        <item>Google Fan</item>
+        <item>Media</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="exp">
+        <item>Indicate your experience in the industry</item>
+        <item>1 year</item>
+        <item>3 years</item>
+        <item>4 years</item>
+        <item>5 years</item>
+        <item>More than 5 years</item>
+    </string-array>
+</resources>

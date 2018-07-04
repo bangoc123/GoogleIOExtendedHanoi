@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="noti_require_login">Bạn phải đăng nhập để đặt topic</string>
+    <string name="noti_error_try">Lỗi. Vui lòng thử lại</string>
+    <string name="menu_schedule">Lịch trình</string>
+    <string name="menu_map">Bản đồ</string>
+    <string name="alert_exit_app">Bạn có muốn thoát ứng dụng không?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="title_update_app">Có phiên bản mới</string>
+    <string name="message_update_app">Vui lòng cập nhật ứng dụng để tiếp tục sử dụng</string>
+    <string name="update">Cập nhật</string>
+    <string name="no_thanks">Không, cảm ơn</string>
+    <string name="menu_event">Sự kiện</string>
+    <string name="menu_faq">Hỏi đáp</string>
+    <string name="menu_my_topics">My Topics</string>
+    <string name="menu_qrcode">Mã QR</string>
+    <string name="alert_delete_topic">Topic này sẽ bị xóa khỏi danh sách topic của bạn</string>
+    <string name="delete">Xóa</string>
+    <string name="cancel">Bỏ qua</string>
+    <string name="question_1">Quy trình check-in của sự kiện như thế nào?</string>
+    <string name="answer_1">BTC sẽ tiến hành quét mã QR đã được gửi qua email của những người tham dự. Các bạn vui lòng cầm sẵn một thiết bị di dộng trên tay để việc check-in được tiến hành nhanh chóng và thuận lợi nhất.</string>
+    <string name="question_2">Ngôn ngữ chính được sử dụng tại sự kiện là gì?</string>
+    <string name="answer_2">Keynote cũng như một số session của sự kiện sẽ được trình bày hoàn toàn bằng tiếng Anh từ các chuyên gia nước ngoài. Các session còn lại sẽ được trình bày bằng tiếng Việt bởi các chuyên gia công nghệ trong nước.</string>
+    <string name="question_3">Nếu có câu hỏi dành riêng cho diễn giả, thì làm thế nào để nhận được câu trả lời?</string>
+    <string name="answer_3"><![CDATA[Cuối mỗi session, diễn giả sẽ dành ra 5 – 10 phút để trả lời các thắc mắc của người tham dự. Ngoài ra, nếu như trong khoảng thời gian Q&A trên mà câu hỏi của bạn chưa được giải đáp, bạn có thể ghi lại câu hỏi cùng với email của bạn và chuyển đến một bạn cộng tác viên hỗ trợ diễn giả trong phòng. CTV sẽ chuyển câu hỏi trực tiếp đến diễn giả.]]></string>
+    <string name="sign_out">Đăng xuất</string>
+    <string name="let_s_use_your_qr_code">Hãy dùng mã QR của bạn để tham dự sự kiện Google IO Extended Hanoi 2018</string>
+    <string name="you_will_receive_your_qr_code_in_10_days">Bạn sẽ nhận được mã QR của bạn trong 10 ngày</string>
+    <string name="successful_registration">Đăng ký thành công!</string>
+    <string name="sign_in_to_save_events">Đăng nhập để lưu sự kiện, giữ chỗ và đánh giá các topic (nếu là người tham dự). Dữ liệu của bạn sẽ được đồng bộ giữa ứng dụng và trang web</string>
+    <string name="sign_in_to_customize_your_schedule">Đăng nhập để tạo lịch cho bạn</string>
+    <string name="password">Mật khẩu:</string>
+    <string name="wifi_network">Tên wifi:</string>
+    <string name="agree">Đồng ý</string>
+    <string name="submit">Gửi</string>
+    <string name="question_for_us_optional">Câu hỏi cho chúng tôi (nếu có)</string>
+    <string name="your_birthday">Ngày sinh</string>
+    <string name="company">Công ty</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="first_name">Tên</string>
+    <string name="last_name">Họ</string>
+    <string name="register_now_to_receive_qr_code">Đăng ký ngay để nhận mã QR tham dự sự kiện Google I/O Extended Hanoi 2018</string>
+    <string name="menu_info">Thông tin</string>
+    <string name="projects_you_have_been_involved_with">Các dự án bạn đã tham gia</string>
+    <string-array name="occupation">
+        <item>Chọn nghề nghiệp của bạn</item>
+        <item>Developer</item>
+        <item>Product Manager</item>
+        <item>Google Fan</item>
+        <item>Media</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="exp">
+        <item>Cho biết kinh nghiệm của bạn trong ngành</item>
+        <item>1 năm</item>
+        <item>3 năm</item>
+        <item>4 năm</item>
+        <item>5 năm</item>
+        <item>Hơn 5 năm</item>
+    </string-array>
+    <string name="register">Đăng ký</string>
+    <string name="your_application_form_will_review">Đơn đăng ký của bạn sẽ được xem xét trong 1 tuần. Khi bạn nhận được email xác nhận thì bạn có thể thêm các topic vào danh sách topic của bạn</string>
+    <string name="notifi_you_must_login">Bạn phải đăng nhập để thêm topic này</string>
+</resources>
